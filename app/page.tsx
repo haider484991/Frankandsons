@@ -120,7 +120,7 @@ export default function Home() {
               <div className="text-white/90 animate-fade-in-up delay-400">
                 <div className="flex items-center justify-center">
                   <FaClock className="w-5 h-5 mr-2" />
-                  <span>24/7 Emergency Service Available</span>
+                  <span>24/7 Emergency Service Available in most areas</span>
                 </div>
               </div>
             </div>
@@ -630,7 +630,7 @@ export default function Home() {
                       <span>Call 1-833-581-1133</span>
                     </a>
                     <p className="text-center text-gray-500">
-                      Available 24/7 for Emergency Services
+                      Available 24/7 for Emergency Services in most areas
                     </p>
                   </div>
                 </div>

@@ -63,7 +63,7 @@ export default function Footer() {
               <div className="flex flex-col">
                 <h3 className="text-xl font-bold mb-4 text-blue-300">Frank And Sons Exterminators</h3>
                 <p className="text-gray-300 mb-4">
-                  Professional pest control services across California. We connect you with experts who handle all types of pests, from insects to rodents.
+                Frank And Sons Exterminators is a free service that helps consumers connect with local moving service contractors. All contractors are independent and we do not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the contractor they hire has the necessary license and insurance required for the work being performed.
                 </p>
               </div>
             </div>
@@ -81,7 +81,7 @@ export default function Footer() {
                 <Clock className="h-5 w-5 text-blue-300 mt-0.5" />
                 <div>
                   <p className="text-sm text-gray-400">Hours:</p>
-                  <p className="text-white">24/7 Emergency Service</p>
+                  <p className="text-white">24/7 Emergency Service in most areas</p>
                 </div>
               </div>
             </div>
@@ -139,7 +139,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center text-gray-300 group">
                 <Clock className="h-5 w-5 mr-3 text-blue-400" />
-                <span>Emergency repairs available 24/7</span>
+                <span>Emergency repairs available 24/7 in most areas</span>
               </li>
             </ul>
           </div>

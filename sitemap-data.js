@@ -16624,8 +16624,8 @@ const states = [
 
 const services = [
   {
-    id: 'appliance-repair',
-    slug: 'appliance-repair',
+    id: 'pest-control',
+    slug: 'pest-control',
   }
 ];
 

@@ -22,7 +22,7 @@ export default function ContactPage() {
           </h1>
           
           <p className="text-xl text-center text-gray-600 mb-12">
-            Need pest control services? We're here to help 24/7.
+            Need pest control services? We're here to help 24/7 in most areas.
           </p>
 
           {/* Contact Methods Grid */}
@@ -33,7 +33,7 @@ export default function ContactPage() {
                 <Phone className="h-8 w-8 text-blue-600" />
               </div>
               <h2 className="text-2xl font-semibold text-blue-900 mb-2">Call Us</h2>
-              <p className="text-gray-600 mb-4">Available 24/7 for emergency service</p>
+              <p className="text-gray-600 mb-4">Available 24/7 for emergency service in most areas</p>
               <a
                 href="tel:1-833-581-1133"
                 className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors"
@@ -48,7 +48,7 @@ export default function ContactPage() {
                 <Mail className="h-8 w-8 text-blue-600" />
               </div>
               <h2 className="text-2xl font-semibold text-blue-900 mb-2">Email Us</h2>
-              <p className="text-gray-600 mb-4">We'll respond within 24 hours</p>
+              <p className="text-gray-600 mb-4">We'll respond within 24 hours in most areas</p>
               <a
                 href="mailto:info@frankandsonsexterminators.com"
                 className="text-xl font-medium text-blue-600 hover:text-blue-700 transition-colors"
@@ -68,7 +68,7 @@ export default function ContactPage() {
                   Service Hours
                 </h3>
                 <ul className="space-y-2 text-blue-100">
-                  <li>24/7 Emergency Service</li>
+                  <li>24/7 Emergency Service in most areas</li>
                   <li>Regular Hours: Mon-Sat, 7am-7pm</li>
                   <li>Sunday: By appointment</li>
                 </ul>
